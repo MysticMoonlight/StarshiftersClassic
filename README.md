@@ -1,6 +1,9 @@
 ![Starshifters CE Logo](https://raw.githubusercontent.com/MysticMoonlight/StarshiftersClassic/main/artworks/Starshifters%20Classic%20Logo%20(No%20BG).png)
 > **"Welcome to the world of Starfarer"**
 
+## Announcement
+This project is cancelled due to unfriendly modding environment. [More info can be found here.](https://twitter.com/Mysty_Moonlight/status/1501707652002639872)
+
 ## Description
 'Starshifters Classic' is the project derived from original Starshifters Modpack, aiming for original goals of the project, which brings back the 'The Stars Above' mod.
 
